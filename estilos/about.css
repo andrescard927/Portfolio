@@ -1,0 +1,23 @@
+.about {
+    background-color: #EAF2FD;
+    font-family: 'Montserrat';
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.about__container {
+    width: 70%;
+    margin: 5rem;
+}
+
+.about__title {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.about__paragraph {
+    font-size: 1.2rem;
+    line-height: 1.5;
+    margin-bottom: 30px;
+}

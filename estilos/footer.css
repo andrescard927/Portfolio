@@ -1,0 +1,15 @@
+.pie{
+    background: #F5F5F5;
+    font-family: 'Montserrat';
+    padding: 1rem;
+}
+.pie__titulo{
+    text-align: center;
+    font-size: 1rem;
+    font-weight: bold;
+}
+.pie__subtitulo{
+    text-align: center;
+    font-size: 1rem;
+    font-weight: bold;
+}
