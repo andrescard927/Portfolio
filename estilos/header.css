@@ -36,6 +36,10 @@
 } 
 
 @media (max-width: 768px) {
+    .menu__header{
+        display: flex;
+        justify-content: center;
+    }
     .menu {
     padding: 1rem;
     display: flex;

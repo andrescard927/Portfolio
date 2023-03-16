@@ -17,7 +17,15 @@
 }
 
 .about__paragraph {
+    text-align: justify;
     font-size: 1.2rem;
     line-height: 1.5;
     margin-bottom: 30px;
+    margin-right: 2rem;
+}
+
+@media (max-width: 768px){
+    .about__title{
+        text-align: center;
+    }
 }
