@@ -80,7 +80,9 @@ body{
     display: flex;
     flex-wrap: wrap;
     flex-direction: column;
-    padding: 1rem;
+    align-items: center;
+    padding: 2rem;
+    text-align: center; /* Add this line */
   }
   .experience__img{
     width: 100%;
@@ -88,8 +90,17 @@ body{
   }
   .experience__title{
     font-size: 1.7rem;
+    display: flex;
+    justify-content: center;
   }
+
   .experience__text{
     font-size: 1rem;
+  }
+
+  .experience__botao--repo a,
+  .experience__botao--demo a  {
+    display: flex;
+    justify-content: center;
   }
 }

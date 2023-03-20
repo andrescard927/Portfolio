@@ -61,4 +61,11 @@
     align-items: center;
     padding: 1rem;
     }
+    .menu__titulo{
+        display: flex;
+        justify-content: center;
+    }
+    .vect{
+        display: none;
+    }
 }
